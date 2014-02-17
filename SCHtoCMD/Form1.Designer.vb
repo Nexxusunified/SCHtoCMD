@@ -141,7 +141,7 @@ Partial Class Form1
         Me.Controls.Add(Me.xt)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "SCHtoCMD"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
